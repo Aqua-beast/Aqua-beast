@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqua-beast" alt="aqua-beast" /></a> </p>
 
-- 🌱 I’m currently learning **Front-end Framework like ReactJS, backend Framework like express.**
+- 🌱 I’m currently learning **Front-end Frameworks like ReactJS, and backend Frameworks like express.**
 
 - 💬 Ask me about **React, Mongo, Express, NodeJS**
 
