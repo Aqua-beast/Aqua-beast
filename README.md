@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqua-beast&show_icons=true&locale=en" alt="aqua-beast" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqua-beast&" alt="aqua-beast" /></p>
+
+[![An image of @aquabeast's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aquabeast)](https://holopin.io/@aquabeast)
