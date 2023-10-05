@@ -1,7 +1,8 @@
 ![MasterHead](https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg)
 <h1 align="center">Hi 👋, I'm Aryan Sadh</h1>
 <h3 align="center">A MERN stack developer !</h3>
-<img align="right" alt="coding" width="300" src="https://thumbs.gfycat.com/PlushUnderstatedCats-max-1mb.gif" >
+<img align="center" alt="coding" width="300" src="https://pa1.aminoapps.com/6066/0d3ed4b03e912c16c5a6ea36cc1e26e7adef96ce_hq.gif" >
+<br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqua-beast&label=Profile%20views&color=0e75b6&style=flat" alt="aqua-beast" /> </p>
 
