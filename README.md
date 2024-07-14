@@ -1,4 +1,3 @@
-![MasterHead]
 <h1 align="center">Hi 👋, I'm Aryan Sadh</h1>
 <h3 align="center">A MERN stack developer !</h3>
 <img align="center" alt="coding" width="300" src="https://pa1.aminoapps.com/6066/0d3ed4b03e912c16c5a6ea36cc1e26e7adef96ce_hq.gif" >
