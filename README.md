@@ -4,7 +4,7 @@
 ![Banner](https://raw.githubusercontent.com/Aqua-beast/Aqua-beast/main/Banner%20for%20social%20profiles.png)
 
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" >
+<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" >
 <br>
 
 - 🌱 I’m currently learning **backend Frameworks like Django, and Typescript**
