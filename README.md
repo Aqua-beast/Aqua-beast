@@ -1,8 +1,5 @@
-<h1 align="center">Hola 👋</h1>
-<!-- <h3 align="center">A MERN stack developer !</h3> -->
-
-![Banner](https://raw.githubusercontent.com/Aqua-beast/Aqua-beast/main/Banner%20for%20social%20profiles.png)
-
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A MERN stack developer !</h3>
 
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" >
 <br>
